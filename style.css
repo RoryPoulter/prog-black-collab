@@ -34,3 +34,7 @@ footer {
 }
 .row.content {height:auto;} 
 }
+
+dl {
+    padding-left: 30px;
+}
