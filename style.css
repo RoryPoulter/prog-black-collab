@@ -14,6 +14,7 @@
     height: 100%;
 }
 
+
 /* Set black background color, white text and some padding */
 footer {
     background-color: #555;
@@ -36,4 +37,15 @@ footer {
 
 dl {
     padding-left: 30px;
+}
+
+footer a {
+    color: rgb(101, 146, 230);
+}
+footer a:visited {
+    color:rgb(101, 146, 230)
+}
+/* Changes color to white when hovered over */
+footer a:hover {
+    color: rgb(255, 255, 255);
 }
