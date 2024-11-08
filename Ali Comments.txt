@@ -1,0 +1,8 @@
+1-The medicine page could have a scroll.
+2-The medicine page could also have more images.
+3-The image on the Education page hasn't got any description.
+4-More info could be added to the Education page.
+5-The Logo button in the navbar doesn't work.
+6-
+
+ 
